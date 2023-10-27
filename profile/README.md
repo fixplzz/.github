@@ -56,7 +56,7 @@
   <tr>
     <td align="center"><strong>Java</strong></td>
     <td align="center"><strong>Java</strong></td>
-    <td align="center"><strong>JS, ReactNative</strong></td>
+    <td align="center"><strong>JS</strong></td>
     <td align="center"><strong>Java</strong></td>
     <td align="center"><strong>Java</strong></td>
   </tr>
