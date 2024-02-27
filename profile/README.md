@@ -7,7 +7,7 @@
 
 
 **`도로 위 성동구`** 는 유저들이 손쉽게
-<br> 성동구 내 불편사항들을 신고할 수 있는 반응형 웹입니다. 
+<br> 성동구 내 불편사항들을 신고할 수 있는 웹입니다. 
 <br><br>![본선진출](https://img.shields.io/badge/본선진출-black?style=flat&logo=Pinboard)
 </div>
 
@@ -78,29 +78,6 @@
 > 📑 **[FrontEnd Repository](https://github.com/fixplzz/fixplz-FE)** <br>
 
 <br>
-
-### 🚩 주요 기능 소개
-> #### 1️⃣ **사용자 위치 자동 탐지 GPS 활용** <br>
->
-
-<br>
-
-> #### 2️⃣ **푸시 알림 기능** <br>
->
-
-<br>
-
-> #### 3️⃣ **시설물 신고 아카이빙 제공** <br>
->
-
-<br>
-
-> #### 4️⃣ **다국어 지원** <br>
->
-
-<br>
-
-
 
 
 <br>
